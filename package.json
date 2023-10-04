@@ -1,0 +1,22 @@
+{
+  "name": "is-equal",
+  "version": "1.0.0",
+  "description": "return true if is equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit221060/firstLibrary.git"
+  },
+  "keywords": [
+    "testequal"
+  ],
+  "author": "amit singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amit221060/firstLibrary/issues"
+  },
+  "homepage": "https://github.com/Amit221060/firstLibrary#readme"
+}
